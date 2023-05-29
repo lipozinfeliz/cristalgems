@@ -21,14 +21,38 @@ main {
     border: 2px solid;
 }
 
-#red {
-    background-color: #e80432;
+#yellow {
+    background-color: yellow;
 }
 
-#green {
-    background-color: forestgreen;
+#orange{
+    background-color: #ff5e00;
 }
 
-#blue {
-    background-color: navy;
+#red{
+    background-color: rgb(255, 47, 47);
+}
+
+#white{
+    background-color: white;
+}
+
+#pink{
+    background-color: rgb(255, 75, 174);
+}
+
+#cian{
+    background-color: rgb(0, 238, 255);
+}
+
+#blue{
+    background-color: #1549f5;
+}
+
+#purple{
+    background-color: rgb(140, 0, 255)
+}
+
+#green{
+    background-color: #1bda1b;
 }
